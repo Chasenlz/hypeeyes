@@ -1,6 +1,6 @@
 (function () {
 let keyWord = '+fuzzy';
-//example: +box,+logo,-bear
+//example: +box,+logo,+hooded,-beanie
 let categories = ["Jackets", "Coats", "Shirts", "Tops/Sweaters", "Sweatshirts", "Pants", "Shorts", "T-Shirts", "Hats", "Bags", "Accessories", "Shoes", "Skate"]
 // 0 "Jackets",
 // 1 "Coats",
@@ -19,7 +19,7 @@ let category = categories[0];
 let preferredSize = 'small'
 let preferColor = 'teal';
 let autoCheckout = true;
-let checkout_delay = 390;
+let checkout_delay = 500;
 let cnb = "1234123412341234";
 let month = "09";
 let year = "2026";
