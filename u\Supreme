@@ -17,7 +17,7 @@ let categories = ["Jackets", "Coats", "Shirts", "Tops/Sweaters", "Sweatshirts", 
 // 12 "Skate",
 let category = categories[0];
 let preferredSize = 'small'
-let preferColor = 'teal';
+let preferColor = 'red';
 let autoCheckout = true;
 let checkout_delay = 500;
 let cnb = "1234123412341234";
